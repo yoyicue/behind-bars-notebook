@@ -11,29 +11,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: '权威指南',
+    title: '一般惯例',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        《Behind Bars》是当代最权威的音乐记谱规范指南，由 Faber Music 资深音乐编辑 Elaine Gould 编写。
+        涵盖五线谱基本规则、谱号、音符、节奏等通用记谱规范，是所有音乐记谱的基础标准。解读谱表结构、音符形状与位置、节奏时值、力度记号、装饰音、反复记号等核心元素，确保记谱的准确性与可读性。
       </>
     ),
   },
   {
-    title: '全面覆盖',
+    title: '器乐记谱',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        从基础规则到复杂乐器技巧，全面覆盖音乐记谱的各个方面，帮助读者准备清晰精确的乐谱。
+        针对各类乐器（键盘、弦乐、管乐、打击乐等）的特定记谱法与演奏技法规范。包括钢琴踏板标记、弦乐泛音、管乐换气、打击乐特殊技法等专业记谱方法，帮助作曲家准确表达各类乐器的独特表现力。
       </>
     ),
   },
   {
-    title: '实用参考',
+    title: '排版呈现',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        包含 1,500 多个从巴赫到泽纳基斯的已出版乐谱示例，是作曲家、编曲者、教师和学生的必备参考。
+        总谱布局、分谱准备、排版美学与印刷输出建议，确保乐谱清晰易读、演奏友好。从乐器分组、小节线对齐、系统间距到分谱提取、排练记号设置，提供全面的排版指导，让乐谱既美观又实用。
       </>
     ),
   },
