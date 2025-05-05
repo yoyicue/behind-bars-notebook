@@ -57,7 +57,9 @@ const config: Config = {
       title: 'Behind Bars 中文笔记',
       logo: {
         alt: 'Behind Bars Logo',
-        src: 'img/logo.svg',
+        src: 'img/behind_bars.svg',
+        width: 32,
+        height: 32,
       },
       items: [
         {
