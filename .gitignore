@@ -65,3 +65,9 @@ ENV/
 # OS specific
 .DS_Store
 Thumbs.db
+
+# PDF files
+*.pdf
+
+# Design docs
+full-text-design.md
