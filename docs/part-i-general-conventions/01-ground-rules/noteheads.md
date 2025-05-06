@@ -6,28 +6,42 @@
 
 These are oval-shaped and placed on the stave with a diagonal slant away from the stem.
 
+[musical example]
+
 ### White noteheads
 
 #### The minim
 The notehead is oval-shaped with diagonal shading. It is usually slightly larger than the black notehead.
 
+[musical example]
+
 #### The semibreve
 The oval notehead has greater width (in proportion 2½ semibreves to 3 black noteheads) and does not slant diagonally. Its shading slants slightly but in the reverse direction from the minim — a semibreve is not a stemless minim. White notes tend to be read by their shape, rather than by the presence (or not) of a stem, whereas with black notes the eye looks for a tail or beam — the correct shape for the notehead is therefore important.
 
+[musical example]
+
 #### The breve
 This can be notated in one of three ways.
+
+[musical example]
 
 ## Placing
 
 The height of a stave-space determines the size of all noteheads, which is crucial to ease of reading. Noteheads too small in proportion to the stave make the music uncomfortable to read.
 
+[musical example]
+
 ### Notes in a space
 
 The notehead fills the space, touching the stave-line on each side of it, but without extending beyond either line.
 
+[musical example]
+
 ### Notes on a line
 
 The notehead is precisely centred on the stave-line. The unshaded centre of a white note must be visible when the stave-line runs through the notehead.
+
+[musical example]
 
 If the stave-lines are too thick and the noteheads too small, the centre of white notes may fill in with reproduction.
 
@@ -35,7 +49,11 @@ If the stave-lines are too thick and the noteheads too small, the centre of whit
 
 The diamond shape has concave sides and is shaded on the diagonals. When the notehead is in a space the top and bottom corners slightly extend beyond the stave-lines on either side. This is to give the notehead sufficient size to distinguish it from a minim. Diamond noteheads look small compared with the white oval.
 
+[musical example]
+
 A stem joins the diamond at the side of the notehead, and not at the central point (although the latter are used to replicate the notation of early music editions).
+
+[musical example]
 
 ### Uses
 - as harmonics in instrumental writing (except piano)
@@ -54,13 +72,19 @@ Harmonic noteheads for bowed string instruments and woodwind remain white, regar
 
 The cross comprises two unshaded diagonal lines. It fills a stave-space.
 
+[musical example]
+
 The double-sharp sign × is sometimes used for crossed noteheads, but is best reserved for use as an accidental symbol.
 
 The stem joins the cross at the edge of the symbol, and not at its centre.
 
+[musical example]
+
 ### Minims and semibreves
 
 The unshaded area inside a white notehead is too small to add a cross without obscuring the white space. Instead, the cross is surrounded by a thin unshaded circle (the same shape for both minim and semibreve durations).
+
+[musical example]
 
 In simple percussion writing, the crossed notehead is sometimes replaced with a diamond-shaped notehead, to make the durations slightly easier to read. However, it is not recommended that crossed and diamond notes are mixed in this way.
 
@@ -80,6 +104,8 @@ In simple percussion writing, the crossed notehead is sometimes replaced with a 
 The triangular notehead denotes the highest/lowest possible pitch, where such a pitch cannot be specified.
 
 The notehead may be black or white according to duration. It is a little larger than a minim notehead. The stem is attached to the centre of the base of the triangle. For a semibreve duration, two tied minims are clearer than a stemless notehead.
+
+[musical example]
 
 Place the notehead outside the stave, the exact distance from the stave depending on context.
 

@@ -1,7 +1,3 @@
----
-title: Barlines
----
-
 ## Barlines
 
 ### Single barlines
@@ -27,12 +23,3 @@ The thick final line is of beam thickness. The thin barline is placed 1/2 stave-
 ### Repeat barlines
 
 These use the final double barline design together with repeat dots. At a barline, the repeat sign replaces the barline (see Placing repeat barlines, p. 233.)
-
-## References
-For more information, see:
-- Square brackets (p. 516)
-- Barring through a score (p. 518)
-- Systemic barline (p. 521)
-- Placing repeat barlines (p. 233)
-- Layout between movements (p. 486)
-- Da Capo and Dal Segno layouts (p. 240) 
