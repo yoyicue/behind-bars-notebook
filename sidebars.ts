@@ -70,6 +70,13 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
+      label: 'Part III: Layout & Presentation',
+      items: [
+        'part-iii-layout-presentation/preparing-materials',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Appendix',
       items: [
         'appendix/index',
