@@ -1,4 +1,4 @@
-# Chapter 1: Ground Rules
+# Index
 
 This chapter covers the fundamental elements of music notation, establishing the basic rules and conventions that form the foundation of musical scoring.
 

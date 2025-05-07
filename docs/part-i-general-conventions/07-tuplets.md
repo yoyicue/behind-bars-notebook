@@ -1,3 +1,5 @@
+# 7. Tuplet
+
 ## Definition
 
 A tuplet is rhythmic division that does not divide into standard groups of two or three. Such groups are considered to be 'irregular' to the regular two (J beat, etc.) or three (J. beat, etc.) division. Their notation relies on adding numerals to show their different division. The difference is conceived as a distortion of the standard values. (Henry Cowell, in his New Musical Resources, created an imaginative alternative notation by using different-shaped noteheads for each division of the beat, although he did not apply his theory within many of his works.)

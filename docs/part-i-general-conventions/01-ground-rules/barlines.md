@@ -1,4 +1,4 @@
-## Barlines
+# Barlines
 
 ### Single barlines
 

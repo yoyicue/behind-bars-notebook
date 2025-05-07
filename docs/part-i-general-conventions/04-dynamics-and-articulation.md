@@ -1,4 +1,4 @@
-# Dynamics and Articulation
+# 4. Dynamics and Articulation
 
 ## Dynamics
 

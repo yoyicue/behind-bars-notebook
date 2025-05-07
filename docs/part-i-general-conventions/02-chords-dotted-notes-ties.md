@@ -1,4 +1,4 @@
-# Chords – Dotted Notes – Ties
+# 2. Chords – Dotted Notes – Ties
 
 ## Chords
 

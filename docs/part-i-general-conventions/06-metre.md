@@ -1,4 +1,4 @@
-### Chapter 6: Metre
+# 6. Metre
 
 ## Introduction
 

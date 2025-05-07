@@ -1,4 +1,4 @@
-# Accidentals and Key Signatures
+# 3. Accidentals and Key Signatures
 
 ## Accidentals
 
