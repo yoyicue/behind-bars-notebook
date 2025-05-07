@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: '画谱为牢：乐谱写作规范指南',
-  tagline: '《Behind Bars: The Definitive Guide to Music Notation》Chinese Notebook',
+  title: 'Behind Bars: The Definitive Guide to Music Notation',
+  tagline: 'Notebook for Behind Bars: The Definitive Guide to Music Notation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -27,8 +27,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-CN',
-    locales: ['zh-CN'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
@@ -54,7 +54,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Behind Bars 中文笔记',
+      title: 'Behind Bars Notebook',
       logo: {
         alt: 'Behind Bars Logo',
         src: 'img/behind_bars.svg',
@@ -66,7 +66,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'docsSidebar',
           position: 'left',
-          label: '文档',
+          label: 'Documentation',
         }
       ],
     },
@@ -74,20 +74,20 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: '文档',
+          title: 'Documentation',
           items: [
             {
-              label: '基础规则',
-              to: '/docs/part-i-general-conventions/ch1-ground-rules',
+              label: 'Ground Rules',
+              to: '/docs/part-i-general-conventions/ground-rules',
             },
             {
-              label: '键盘乐器',
-              to: '/docs/part-ii-idiomatic-notation/ch11-keyboard',
+              label: 'Keyboard',
+              to: '/docs/part-ii-idiomatic-notation/keyboard',
             },
           ],
         },
         {
-          title: '购买链接',
+          title: 'Purchase Links',
           items: [
             {
               label: 'Amazon',
@@ -102,13 +102,13 @@ const config: Config = {
               href: 'https://books.apple.com/us/book/behind-bars/id6459233804',
             },
             {
-              label: '天猫',
+              label: 'Tmall',
               href: 'https://detail.tmall.com/item.htm?id=690199137286',
             },
           ],
         },
         {
-          title: '更多',
+          title: 'More',
           items: [
             {
               label: 'GitHub',
