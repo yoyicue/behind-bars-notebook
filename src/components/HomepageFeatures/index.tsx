@@ -11,29 +11,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: '一般惯例',
-    Image: () => <img src={require('@site/static/img/general_conventions.png').default} alt="一般惯例" />,
+    title: 'General Conventions',
+    Image: () => <img src={require('@site/static/img/general_conventions.png').default} alt="General Conventions" />,
     description: (
       <>
-        涵盖五线谱基本规则、谱号、音符、节奏等通用记谱规范，是所有音乐记谱的基础标准。解读谱表结构、音符形状与位置、节奏时值、力度记号、装饰音、反复记号等核心元素，确保记谱的准确性与可读性。
+        Covers basic staff rules, clefs, notes, rhythm, and universal notation standards that form the foundation of all music notation. Interprets staff structure, note shapes and positions, rhythmic values, dynamic markings, ornaments, repeat signs, and other core elements to ensure notation accuracy and readability.
       </>
     ),
   },
   {
-    title: '器乐记谱',
-    Image: () => <img src={require('@site/static/img/idiomatic_notation.png').default} alt="器乐记谱" />,
+    title: 'Idiomatic Notation',
+    Image: () => <img src={require('@site/static/img/idiomatic_notation.png').default} alt="Idiomatic Notation" />,
     description: (
       <>
-        针对各类乐器（键盘、弦乐、管乐、打击乐等）的特定记谱法与演奏技法规范。包括钢琴踏板标记、弦乐泛音、管乐换气、打击乐特殊技法等专业记谱方法，帮助作曲家准确表达各类乐器的独特表现力。
+        Specific notation methods and performance technique standards for various instruments (keyboard, strings, winds, percussion, etc.). Includes piano pedal markings, string harmonics, wind breathing, special percussion techniques, and other professional notation methods to help composers accurately express the unique expressiveness of each instrument.
       </>
     ),
   },
   {
-    title: '排版呈现',
-    Image: () => <img src={require('@site/static/img/layout_presentation.png').default} alt="排版呈现" />,
+    title: 'Layout & Presentation',
+    Image: () => <img src={require('@site/static/img/layout_presentation.png').default} alt="Layout & Presentation" />,
     description: (
       <>
-        总谱布局、分谱准备、排版美学与印刷输出建议，确保乐谱清晰易读、演奏友好。从乐器分组、小节线对齐、系统间距到分谱提取、排练记号设置，提供全面的排版指导，让乐谱既美观又实用。
+        Score layout, part preparation, typography aesthetics, and printing output recommendations to ensure clear, readable, and performer-friendly scores. Provides comprehensive layout guidance from instrument grouping, barline alignment, and system spacing to part extraction and rehearsal mark setup, making scores both beautiful and practical.
       </>
     ),
   },

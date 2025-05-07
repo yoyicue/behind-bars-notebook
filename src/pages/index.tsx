@@ -21,7 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            开始阅读 📖
+            Start Reading 📖
           </Link>
         </div>
       </div>
@@ -34,7 +34,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={siteConfig.title}
-      description="《Behind Bars: The Definitive Guide to Music Notation》中文笔记 - 当代权威音乐记谱规范指南">
+      description="Notebook for Behind Bars: The Definitive Guide to Music Notation - The authoritative guide to contemporary music notation standards">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

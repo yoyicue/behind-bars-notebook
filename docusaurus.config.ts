@@ -54,7 +54,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Behind Bars Notebook',
+      title: 'Behind Bars',
       logo: {
         alt: 'Behind Bars Logo',
         src: 'img/behind_bars.svg',
