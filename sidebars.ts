@@ -59,15 +59,21 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Part II: Idiomatic Notation',
       items: [
+        'part-ii-idiomatic-notation/woodwind-and-brass',
+        'part-ii-idiomatic-notation/percussion',
         'part-ii-idiomatic-notation/keyboard',
+        'part-ii-idiomatic-notation/harp',
+        'part-ii-idiomatic-notation/classical-guitar',
+        'part-ii-idiomatic-notation/strings',
+        'part-ii-idiomatic-notation/vocal-music',
       ],
     },
     {
       type: 'category',
       label: 'Appendix',
       items: [
-        'appendix/further-reading',
         'appendix/index',
+        'appendix/further-reading',
       ],
     },
   ],
