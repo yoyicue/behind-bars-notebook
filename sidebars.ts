@@ -73,14 +73,20 @@ const sidebars: SidebarsConfig = {
       label: 'Part III: Layout & Presentation',
       items: [
         'part-iii-layout-presentation/preparing-materials',
+        'part-iii-layout-presentation/score-layout',
+        'part-iii-layout-presentation/part-preparation',
+        'part-iii-layout-presentation/electroacoustic-music',
+        'part-iii-layout-presentation/freedom-and-choice',
       ],
     },
     {
       type: 'category',
       label: 'Appendix',
       items: [
-        'appendix/index',
+        'appendix/international-terms',
         'appendix/further-reading',
+        'appendix/copyright-acknowledgements',
+        'appendix/index',
       ],
     },
   ],
