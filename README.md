@@ -1,99 +1,99 @@
-# 画谱为牢 · Behind Bars 中文笔记
+# Behind Bars: The Definitive Guide to Music Notation - Notebook
 
-> "Behind Bars" 的字面是"在小节线之内"；  
-> 也是一种幽默俚语："身陷囹圄"。  
+> "Behind Bars" literally refers to being "within the bar lines";  
+> It's also a humorous idiom meaning "imprisoned."  
 >  
-> 而这本书教你如何在五线谱的规则之间——  
-> **规范地书写音乐，让演奏得以自由呼吸。**
+> This book teaches you how to navigate within the rules of musical notation—  
+> **Write music with proper notation, allowing performers to breathe freely.**
 
-## 项目简介
+## Project Overview
 
-本项目是《Behind Bars: The Definitive Guide To Music Notation》的中文结构化笔记，使用 Docusaurus 构建。原书由 Elaine Gould 撰写，是当代权威的音乐记谱规范指南。
+This project is a structured notebook of "Behind Bars: The Definitive Guide To Music Notation," built with Docusaurus. The original book was written by Elaine Gould and is the authoritative guide to contemporary music notation standards.
 
-### 内容结构
+### Content Structure
 
-- **前言 Preface**：写作目的、概览、适用对象等
-- **Part I 一般惯例**：基础规则，适用于所有谱面
-  - 基本规则
-  - 和弦、附点音符、连音线
-  - 临时记号与调号
-  - 力度与演奏法
-  - 装饰音、颤音、滑音
-  - 节拍
-  - 连音符
-  - 反复记号
-- **Part II 器乐记谱**：各类乐器专属技法规范
-  - 木管与铜管乐器
-  - 打击乐
-  - 键盘乐器
-  - 竖琴
-  - 古典吉他
-  - 弦乐
-  - 声乐
-- **Part III 排版&呈现**：总谱、分谱、美学与印刷
-  - 材料准备
-  - 总谱布局
-  - 分谱准备
-  - 电子音乐
-  - 自由与选择
-- **附录 Appendix**：术语索引、图示、推荐阅读等
+- **Introduction**: Purpose, overview, intended audience, etc.
+- **Part I: General Conventions**: Basic rules applicable to all scores
+  - Ground Rules
+  - Chords, Dotted Notes, Ties
+  - Accidentals and Key Signatures
+  - Dynamics and Articulation
+  - Ornamentation
+  - Metre
+  - Tuplets
+  - Repeat Signs
+- **Part II: Idiomatic Notation**: Specific techniques for various instruments
+  - Woodwind and Brass
+  - Percussion
+  - Keyboard
+  - Harp
+  - Classical Guitar
+  - Strings
+  - Vocal Music
+- **Part III: Layout & Presentation**: Score, parts, aesthetics, and printing
+  - Preparing Materials
+  - Score Layout
+  - Part Preparation
+  - Electroacoustic Music
+  - Freedom and Choice
+- **Appendix**: International terms, index, further reading, etc.
 
-## 技术栈
+## Technology Stack
 
-- [Docusaurus](https://docusaurus.io/) - 现代静态网站生成器
+- [Docusaurus](https://docusaurus.io/) - Modern static website generator
 - TypeScript
 - React
 
-## 本地开发
+## Local Development
 
-### 安装依赖
+### Installation
 
 ```bash
 yarn
 ```
 
-### 启动开发服务器
+### Start Development Server
 
 ```bash
 yarn start
 ```
 
-此命令会启动本地开发服务器并自动打开浏览器窗口。大多数更改都会实时反映，无需重启服务器。
+This command starts a local development server and opens a browser window. Most changes are reflected live without needing to restart the server.
 
-### 构建
+### Build
 
 ```bash
 yarn build
 ```
 
-此命令会在 `build` 目录中生成静态内容，可以使用任何静态内容托管服务进行部署。
+This command generates static content in the `build` directory that can be served using any static content hosting service.
 
-### 部署
+### Deployment
 
-使用 SSH：
+Using SSH:
 
 ```bash
 USE_SSH=true yarn deploy
 ```
 
-不使用 SSH：
+Not using SSH:
 
 ```bash
-GIT_USER=<你的 GitHub 用户名> yarn deploy
+GIT_USER=<Your GitHub username> yarn deploy
 ```
 
-如果使用 GitHub Pages 进行托管，此命令是构建网站并推送到 `gh-pages` 分支的便捷方式。
+If you're using GitHub Pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
 
-## 版权声明
+## Copyright Notice
 
-本项目为非商业用途的结构化整理与翻译摘录，  
-原著版权归 **Elaine Gould** 与 **Faber Music** 所有。
+This project is a structured organization for non-commercial purposes.  
+The original copyright belongs to **Elaine Gould** and **Faber Music**.
 
-如需购买原版，请访问：[Faber Music Behind Bars](https://www.fabermusic.com/shop/behind-bars-the-definitive-guide-to-music-notation-p6284)
+To purchase the original book, please visit: [Faber Music Behind Bars](https://www.fabermusic.com/shop/behind-bars-the-definitive-guide-to-music-notation-p6284)
 
 ---
 
-> 一份好谱，不只是技术执行的地图，  
-> 也是演奏者心灵呼吸的起点。  
+> A good score is not just a map for technical execution,  
+> But also a starting point for the performer's spiritual breathing.  
 >  
-> **画谱为牢，亦为音乐而生。**
+> **Behind Bars, yet born for music.**
