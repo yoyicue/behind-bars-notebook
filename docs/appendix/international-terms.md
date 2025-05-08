@@ -1,4 +1,4 @@
-# Appendix: Notes, Keys and Symbols: International Terms
+# Notes, Keys and Symbols: International Terms
 
 | ENGLISH | ITALIAN | FRENCH | GERMAN |
 |---------|---------|--------|--------|
