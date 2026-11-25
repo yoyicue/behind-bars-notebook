@@ -1,90 +1,56 @@
-# 附录（Appendix）
+# 附录（Appendix）：音名、调性与符号的国际化术语
 
-## 1. 术语汇总（Glossary）
+原书附录（p.651–653）是一张**四语对照表**（英语 / 意大利语 / 法语 / 德语），涵盖音名字母、变音记号、调性术语与音符时值名称。跨语言读谱（尤其是德语、法语出版物）时查这张表。
 
-列出书中使用的专业术语、缩写和记谱标记说明，便于查阅理解。
+## 音名与变音记号（Notes & accidentals）
 
-### 示例条目：
+![音名与变音记号四语对照（原书 p.652）](/img/appendix/intl-terms-1.png)
 
-- **a.h.** — artificial harmonic 人工泛音  
-- **arco** — 用弓拉奏（弦乐）  
-- **div.** — divisi，分部  
-- **harmonics** — 泛音  
-- **pizz.** — pizzicato，拨奏  
-- **sul pont.** — 在靠近琴桥的位置拉奏  
-- **tacet** — 不演奏此段落  
-- **tenuto (–)** — 保持音值，稍作强调  
-- **unis.** — unison，齐奏  
+**德语体系的要点：**
 
-> 建议在电子文档中以**A–Z 索引格式**呈现，便于快速跳转。
+- 德语 **B = 英语 B♭**；德语 **H = 英语 B♮**（这是读德语谱最常见的坑）
+- 升记号后缀 **-is**（如 Cis = C♯），重升后缀 **-isis**（Cisis = C𝄪）
+- 降记号后缀 **-es**（如 Des = D♭），重降后缀 **-eses**（Ceses = C𝄫）
+- 个别拼写不规则：Es = E♭，As = A♭，B = B♭；八度命名另有小写与 '、h 等标记（表外）
 
-## 2. 记号与图例索引（Symbols & Examples Index）
+**法语用唱名**（ut/do, ré, mi, fa, sol, la, si）；意大利语用 do re mi 体系，"si" 对应 B。
 
-收录整书中常见记谱符号，配合图示与解释，作为教学与制作参考。
+## 音符时值名称（Note values）
 
-### 类别示例：
+![音符时值四语对照（原书 p.653）](/img/appendix/intl-terms-2.png)
 
-#### 音符形状（Noteheads）  
-- 实心圆：正常音  
-- 空心圆：半音符  
-- 菱形：泛音  
-- 十字头：击奏音、空气音等特殊技法  
+- 英式名称（minim / crotchet / quaver / semiquaver…）与**美式名称**（half note / quarter note / eighth note…，表中以 § 标出）差异极大，读英语文献先分清两国用法
+- 法语：blanche / noire / croche / double-croche / triple-croche / quadruple-croche
+- 德语：halbe Note / Viertelnote / Achtelnote / Sechzehntelnote…（长名直接按数字构词，如 Vierundsechzigstelnote = 1/64 音符）
+- 意大利语：minima / semiminima / croma / semicroma / biscroma / semibiscroma；最短一级 hemidemisemiquaver（英）= quadruple-croche（法）= Vierundsechzigstelnote（德）
 
-#### 节奏装饰  
-- 三斜线（///）：滚奏  
-- 波浪线（~）：颤音  
-- 延长线（—）：melisma 歌词延音  
+## 进一步阅读（Further Reading，原书 p.655）
 
-#### 演奏技巧  
-- ○：泛音  
-- + / o：圆号手堵音 / 放开  
-- 𝆪 / ⌄：弓法（上弓 / 下弓）  
-- trem.: 震音  
-- bisbigliando：竖琴悄拨
+原书推荐的记谱与配器文献（按主题归类）：
 
-## 3. 推荐阅读（Further Reading）
+**乐谱刻绘与记谱法**
 
-精选与音乐记谱法、乐器法、现代作品排版相关的重要参考文献：
+- Cole, Hugo, *Sounds and Signs: Aspects of Musical Notation* (Oxford University Press, 1974)
+- Gerou, Tom & Linda Lusk, *Essential Dictionary of Music Notation* (Alfred, 1996)
+- Homewood, Susan & Colin Matthews, *The Essentials of Music Copying* (MPA, 1990)
+- Rastall, Richard, *The Notation of Western Music* (Travis & Emery, 2nd rev. edn, 2008)
+- Ross, Ted, *The Art of Music Engraving and Processing* (Hansen, 3rd edn, 1987)
+- Sadie, Stanley & John Tyrrell (eds), *The New Grove Dictionary of Music and Musicians*（尤其 Aleatoric 与 Notation 词条）
+- Stone, Kurt, *Music Notation in the Twentieth Century: A Practical Guidebook* (Norton, 1980)
 
-- Elaine Gould, *Behind Bars: The Definitive Guide to Music Notation*  
-- Gardner Read, *Music Notation: A Manual of Modern Practice*  
-- Kurt Stone, *Music Notation in the Twentieth Century*  
-- Ted Ross, *The Art of Music Engraving and Processing*  
-- Donemus Guidelines for Notation of Contemporary Music
+**配器（Orchestration）**
 
-## 4. 音乐出版社与软件指南（Resources & Tools）
+- Adler, Samuel, *The Study of Orchestration* (Norton, 3rd edn, 2002)
+- Blatter, Alfred, *Instrumentation and Orchestration* (Wadsworth, 2nd rev. edn, 1997)
+- Del Mar, Norman, *Anatomy of the Orchestra* (Faber, 1981)
+- Runswick, Daryl, *Rock, Jazz and Pop Arranging* (Faber, 1992)
 
-### 出版规范对照：
+**文本编辑**
 
-- Henle Verlag 手稿风格  
-- Bärenreiter 编辑注解标准  
-- Edition Peters 现代谱面审校样式  
+- *New Hart's Rules* (Oxford University Press, 2005)
 
-### 软件实践：
+> 原书提示：更完整的记谱书目见 *New Grove* 词典 "Notation" 词条（vol. 13）；各类乐器的专门技法书可查 The New Instrumental Series（California University Press）。
 
-- **Finale** / **Sibelius** / **Dorico** 高级排版要点  
-- MuseScore 适配现代技法提示处理建议  
-- Lilypond 代码生成型音乐排版模板
+## 版权致谢（Copyright Acknowledgements，原书 p.657）
 
-## 5. 版权与致谢（Copyright & Acknowledgements）
-
-- 原书版权归 Faber Music 所有  
-- 本文档为根据学习目的整理的中文结构化摘要，仅作非商业用途参考  
-- 特别致谢：Elaine Gould 女士的杰出贡献  
-
-## 6. 索引（Index）
-
-按术语、技术、乐器类别分类的快速查找索引建议：
-
-- Beam、Beaming  
-- Cue-sized notes  
-- Divisi  
-- Fingering  
-- Harmonics  
-- Lyrics alignment  
-- Percussion staff  
-- Slurs vs Ties  
-- Tuplets  
-- Unpitched notation  
-
-> 可在 Docusaurus 中构建 Tags 或全文搜索插件支持跳转
+原书谱例引自众多受版权保护的作品（Bartók、Britten、Carter、Crumb、Harvey、Kurtág、Ligeti、Lutosławski、Messiaen 等），分别经 Boosey & Hawkes、Universal Edition、Faber Music、Oxford University Press、Associated Music Publishers、Peters、Schott、Editio Musica Budapest、Chester Music、Durand 等出版社授权使用。本笔记仅作规则说明性引用，谱例图片版权归原作者及出版社所有。
